@@ -1,0 +1,10 @@
+# 외부 도구(Real-ESRGAN 실행 파일·모델, ffmpeg): 용량이 크고 따로 내려받는 것이라 올리지 않는다
+tools/
+
+# 개인 설정·대기열 (내 PC의 파일 경로가 들어 있음)
+queue.json
+queue.json.tmp
+
+# Python
+__pycache__/
+*.pyc
